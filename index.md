@@ -7,3 +7,10 @@ A Header in JavaScript
 ```javascript
 <h1> Big Header </h1>
 ```
+
+#### To-Do:
+- [ ] homework
+- [ ] food
+- [ ] gym
+- [ ] shower
+- [ ] sleep
